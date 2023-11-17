@@ -1,8 +1,10 @@
+#Artificial Intelligence Portfolio
 ---
-layout: default
----
+## Machine Learning
+### Fraud Detection
+Fraud detection refers to the use of various techniques and technologies to identify and prevent fraudulent activities. Fraud can occur in various domains, including finance, e-commerce, healthcare, and more. The goal of fraud detection systems is to detect and mitigate activities that are deceptive, unauthorized, or malicious.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 [Link to another page](./another-page.html).
 
